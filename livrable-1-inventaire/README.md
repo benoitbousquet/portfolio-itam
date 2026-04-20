@@ -10,7 +10,7 @@ Setup) et croisement avec les logs d'activité des 90 derniers jours
 ## Résultat
 - 12 logiciels inventoriés
 - 3 situations de non-conformité identifiées
-- 47 000 €/an d'économies potentielles localisées
+- 44 900 €/an d'économies potentielles localisées
 
 ## Parties prenantes
 DSI / Procurement / DAF
