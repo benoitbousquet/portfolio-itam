@@ -32,7 +32,7 @@ DSI / DAF / Équipes développement / Procurement
 | SAP | Présent dans la majorité des inventaires | Score pertinence SAM 2,81/5 |
 
 ## Formations & certifications
-- [x] ITIL Foundation
+- [x] ITIL4 Foundation
 - [ ] FinOps Foundation (membre gratuit, en cours)
 - [ ] ServiceNow University - modules ITAM
 
