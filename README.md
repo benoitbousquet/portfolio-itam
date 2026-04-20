@@ -14,13 +14,12 @@ DSI / DAF / Équipes développement / Procurement
 ## Livrables
 | # | Livrable | Résultat clé |
 |---|----------|--------------|
-| [1]./livrable-1-inventaire | Inventaire logiciel TechCorp SAS | Cartographie complète · Analyse Salesforce
-incluse |
-| [2]./livrable-2-audit-adobe | Audit Defense Adobe | Position conforme en 30 jours · Risque réduit de 14 520 € |
-| [3]./livrable-3-optimisation | Optimisation des coûts | 52 000 €/an identifiés · soit 19,4 % du parc |
+| [1]./livrable-1-inventaire | Inventaire logiciel TechCorp SAS | Cartographie complète · Analyse Salesforce incluse |
+| [2]./livrable-2-audit-adobe | Audit Defense Adobe | Position conforme en 30 jours risque réduit de 14 520 € |
+| [3]./livrable-3-optimisation | Optimisation des coûts | 52 000 €/an identifiés soit 19,4 % du parc |
 | [4]./livrable-4-EA-microsoft | Analyse EA Microsoft + Cloud Use Rights + Cloud Waste (FinOps)| 3 scénarios Azure Hybrid Benefit simulés |
-| [5]./livrable-5-saas-sprawl | SaaS Sprawl — Détection shadow IT | 40 outils SaaS non validés détectés |
-| [6]./livrable-6-oracle-java | Note Oracle Java — Gouvernance | Analyse risque audit + alternative OpenJDK |
+| [5]./livrable-5-saas-sprawl | SaaS Sprawl - Détection shadow IT | 40 outils SaaS non validés détectés |
+| [6]./livrable-6-oracle-java | Note Oracle Java - Gouvernance | Analyse risque audit + alternative OpenJDK |
 
 ## Surveillance éditeurs à risque
 | Éditeur | Risque principal | Donnée terrain |
@@ -35,7 +34,7 @@ incluse |
 ## Formations & certifications
 - [x] ITIL Foundation
 - [ ] FinOps Foundation (membre gratuit, en cours)
-- [ ] ServiceNow University — modules ITAM
+- [ ] ServiceNow University - modules ITAM
 
 ## Me contacter
 - LinkedIn : https://www.linkedin.com/in/benoit-bousquet/
