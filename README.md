@@ -32,10 +32,11 @@ DSI / DAF / Équipes développement / Procurement
 | SAP | Présent dans la majorité des inventaires | Score pertinence SAM 2,81/5 |
 
 ## Formations & certifications
-- [x] ITIL4 Foundation
-- [ ] FinOps Foundation (membre gratuit, en cours)
-- [ ] ServiceNow University - modules ITAM
-
+- [ ] ITIL4 Foundation (En cours)
+- [ ] FinOps Foundation (membership en cours)
+- [x] ServiceNow University - modules ITAM SAM
+- [x] Modules Microsoft Learn - MS-900 M365 Licensing & Pricing Fundamentals
+      
 ## Me contacter
 - LinkedIn : https://www.linkedin.com/in/benoit-bousquet/
 - Email : benoit.bousquetpro@protonmail.com
