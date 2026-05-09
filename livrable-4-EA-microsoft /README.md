@@ -1,3 +1,0 @@
-Livrable 4 — Analyse EA
-Microsoft + Cloud Use Rights + Cloud Waste (FinOps) 
-En cours de construction...
