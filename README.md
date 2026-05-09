@@ -20,6 +20,7 @@ DSI / DAF / Équipes développement / Procurement
 | [4]./livrable-4-EA-microsoft | Analyse EA Microsoft + Cloud Use Rights + Cloud Waste (FinOps)| Cloud Waste réduit de 64% sur environnements Test/Dev |
 | [5]./livrable-5-saas-sprawl | SaaS Sprawl - Détection shadow IT | 40 outils SaaS non validés détectés |
 | [6]./livrable-6-oracle-java | Note Oracle Java - Gouvernance | Analyse risque audit + alternative OpenJDK |
+| [7]./livrable-7-case-study | Audit terrain réél | Analyse optimisation SAM association francilienne (Mai 2026) |
 
 ## Surveillance éditeurs à risque
 | Éditeur | Risque principal | Donnée terrain |
@@ -33,9 +34,9 @@ DSI / DAF / Équipes développement / Procurement
 
 ## Formations & certifications
 - [ ] ITIL4 Foundation (En cours)
-- [ ] FinOps Foundation (membership en cours)
 - [x] ServiceNow University - modules ITAM SAM
 - [x] Modules Microsoft Learn - MS-900 M365 Licensing & Pricing Fundamentals
+- [ ] AZ 900 Microsoft certification (En cours)
       
 ## Me contacter
 - LinkedIn : https://www.linkedin.com/in/benoit-bousquet/
