@@ -33,7 +33,7 @@ DSI / DAF / Équipes développement / Procurement
 | SAP | Présent dans la majorité des inventaires | Score pertinence SAM 2,81/5 |
 
 ## Formations & certifications
-- [ ] ITIL4 Foundation (En cours)
+- [X] ITIL4 Foundation 
 - [x] ServiceNow University - modules ITAM SAM
 - [x] Modules Microsoft Learn - MS-900 M365 Licensing & Pricing Fundamentals
 - [ ] AZ 900 Microsoft certification (En cours)
